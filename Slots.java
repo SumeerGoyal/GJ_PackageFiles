@@ -14,8 +14,8 @@ public class Slots {
 		level = 0;
 		color = null;
 		slotNumber = 0; // they start with 1, 2, ....
-	
 	}
+	
 	public Slots(int addedSlotNumber){
 		regNumber = null;
 		state = false;
@@ -43,8 +43,4 @@ public class Slots {
 	public void removeVehicle() {
 		// whatVehicle = null;
 	}
-	
-	
-	
-	
 }
