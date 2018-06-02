@@ -30,6 +30,15 @@ public class ParkingSlot {
 	public String getParkingStatus() {
 		return parkingSlot.getParkingSlotStatus();
 	}
+	public String handle_registration_number_for_cars_with_color(String color){
+		return "";
+	}
+	public String handle_slot_number_for_cars_with_color(String color){
+		return "";
+	}
+	public String handle_slot_number_for_registration_number(String regNo){
+		return "";
+	}
 	
 	/*
 	public void checkOutVehicle(String vehicleNumber){
